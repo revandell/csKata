@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsKata", "CodeWarsCata\CsKata.csproj", "{6A930CAD-BDE8-4018-972D-D1EE1CB4F418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsKata", "CsKata\CsKata.csproj", "{629429B8-B966-4676-BA19-72E010B7D89E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A930CAD-BDE8-4018-972D-D1EE1CB4F418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A930CAD-BDE8-4018-972D-D1EE1CB4F418}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A930CAD-BDE8-4018-972D-D1EE1CB4F418}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A930CAD-BDE8-4018-972D-D1EE1CB4F418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629429B8-B966-4676-BA19-72E010B7D89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629429B8-B966-4676-BA19-72E010B7D89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629429B8-B966-4676-BA19-72E010B7D89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629429B8-B966-4676-BA19-72E010B7D89E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C664A058-1B2E-437F-B57D-C772258C8C1C}
+		SolutionGuid = {2D2C2230-2215-416E-976A-1CA46087FC6F}
 	EndGlobalSection
 EndGlobal
